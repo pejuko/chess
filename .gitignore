@@ -1,0 +1,4 @@
+*~
+*.o
+chess
+.cvsignore~
